@@ -1,0 +1,38 @@
+[
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Image%20Gallery/index.html",
+        "start": {
+            "line": 22,
+            "character": 38
+        },
+        "end": {
+            "line": 22,
+            "character": 42
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Image%20Gallery/index.html",
+        "start": {
+            "line": 22,
+            "character": 90
+        },
+        "end": {
+            "line": 22,
+            "character": 102
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    },
+    {
+        "fileUri": "file:///e%3A/IT/1%2Byear%20job%20practise/Front%20end/Tailwind%20css/Udemy/Mini%20Projects/Image%20Gallery/index.html",
+        "start": {
+            "line": 22,
+            "character": 32
+        },
+        "end": {
+            "line": 22,
+            "character": 36
+        },
+        "color": "rgba(255, 140, 0, 0.2)"
+    }
+]
